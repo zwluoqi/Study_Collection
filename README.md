@@ -32,7 +32,7 @@
 ### 三、开源项目
 #### 1. 引擎
 - [BGFX](https://github.com/bkaradzic/bgfx) : 跨平台渲染库
-- [BGFX](https://github.com/DiligentGraphics/DiligentCore) : 跨平台渲染库
+- [DiligentCore](https://github.com/DiligentGraphics/DiligentCore) : 跨平台渲染库
 - [glslify]](https://github.com/glslify) : 基础shader算法库
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) : 超简单软渲染代码框架
 
