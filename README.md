@@ -15,11 +15,8 @@
 - [GLSL Sandbox]](https://www.glslsandbox.com) : 官方网站
 
 
-
 ### 二、学习书籍
-
 #### 1. 渲染
-- [GPU Gems]]() : 
 - [GPU Gems](https://github.com/QianMo/Game-Programmer-Study-Notes) : 毛星云阅读笔记
 - [GPU Pro](https://zhuanlan.zhihu.com/p/74548892) : 中文阅读笔记
 - [GPU Zen](https://zhuanlan.zhihu.com/p/352302525) : 中文阅读笔记
@@ -39,11 +36,9 @@
 - [glslify]](https://github.com/glslify) : 基础shader算法库
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer) : 超简单软渲染代码框架
 
-
 #### 2. Unity
 - [CustomSRP](https://github.com/cinight/CustomSRP) : Unity可编程渲染管线全课程
 - [LWRP]](https://github.com/marcozakaria/URP-LWRP-Shaders) : Unity轻量级渲染管线Shader支持
-
 
 
 ### 美术资源
