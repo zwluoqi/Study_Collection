@@ -38,7 +38,7 @@
 
 #### 2. Unity
 - [CustomSRP](https://github.com/cinight/CustomSRP) : Unity可编程渲染管线全课程
-- [LWRP]](https://github.com/marcozakaria/URP-LWRP-Shaders) : Unity轻量级渲染管线Shader支持
+- [LWRP](https://github.com/marcozakaria/URP-LWRP-Shaders) : Unity轻量级渲染管线Shader支持
 
 
 ### 美术资源
