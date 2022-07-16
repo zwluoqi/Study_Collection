@@ -33,8 +33,17 @@
 - [iconfont](https://www.iconfont.cn/) : 
 - [opengameart](https://opengameart.org/collections) : 
 
+
+
 #### 2. model
-- [element3ds](http://www.element3ds.com) : model、anim、terrain
+- [微元素素材网](http://www.element3ds.com) : model、anim、terrain
+- [场景模型](https://www.turbosquid.com) : model、anim、terrain
+
+#### 3.animation
+- [mixamo](https://www.mixamo.com/#/) : 
+#### 3.texture
+- [pbr texture](https://www.textures.com/browse) : 
+
 
 ### 6.blog
 
