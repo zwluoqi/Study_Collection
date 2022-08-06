@@ -38,6 +38,10 @@
 #### 2. model
 - [微元素素材网](http://www.element3ds.com) : model、anim、terrain
 - [场景模型](https://www.turbosquid.com) : model、anim、terrain
+- [模型资源](https://www.deviantart.com/)
+- [Unity插件](https://unityvegas.com/)
+- [Unity插件](https://unityassets4free.com)
+
 
 #### 3.animation
 - [mixamo](https://www.mixamo.com/#/) : 
